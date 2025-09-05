@@ -10,6 +10,6 @@ The goal is to eat food, grow, and avoid colliding with the snake’s body or th
 - Custom sprites for snake head, body, background, and food  
 - Game Over screen with final score and restart button  
 - Arrow key controls
-  ### How to Run
-  Clone the repository:
-  git clone https://github.com/mariasjoholm/snake
+### How to Run
+Clone the repository:
+git clone https://github.com/mariasjoholm/snake
