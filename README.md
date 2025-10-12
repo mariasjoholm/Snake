@@ -15,4 +15,4 @@ Clone the repository:
 git clone https://github.com/mariasjoholm/Snake.git
 ## Screenshots
 Starts the game and needs to press the right or left arrow to start the game: 
-![gameFromTheStart](screenshots/1gamestart.png)
+<img src="screenshots/1gamestart.png" alt="home screen" width="400">
