@@ -31,7 +31,7 @@ You earn points and the snake’s body grows each time you eat a heart/food: <br
 <img src="screenshots/3snakebody.png" alt="Snake eating and growing" width="400">
 
 **Game Over**  
-If the snake runs into itself or the walls, the game ends. Your score is based on how many hearts/food you’ve eaten (1 point per heart):<br>
+If the snake runs into itself or the walls, the game ends. Your score is based on how many hearts/food you’ve eaten (1 point= 1 heart/food):<br>
 <img src="screenshots/4gameover.png" alt="Game Over screen" width="400">
 
 **Restart**  
