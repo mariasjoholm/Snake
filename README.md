@@ -14,5 +14,5 @@ The goal is to eat food, grow, and avoid colliding with the snake’s body or th
 Clone the repository:
 git clone https://github.com/mariasjoholm/Snake.git
 ## Screenshots
-Starts the game and needs to press the right or left arrow to start the game: 
+Starts the game and needs to press the right or left arrow to start the game:<br>
 <img src="screenshots/1gamestart.png" alt="home screen" width="400">
